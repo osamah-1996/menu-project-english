@@ -1,0 +1,104 @@
+.color-body{
+  background-color: #f8f8f8;
+  height: fit-content;
+  padding-bottom: 20px;
+}
+
+.font{
+  font-family: "Almarai", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.title{
+  color: #224f61;
+  font-family: "Almarai", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0px;
+  line-height: 24px;
+}
+
+.underline{
+  height: 1px;
+  width: 100px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+  }
+  
+  .button{
+    color: #8c8c8c;
+    font-size: 18px;
+    font-family: "Almarai", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    line-height: 24px;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+    padding: 5px 10px;
+    border: 2px solid #b45b35;
+
+}
+.button:hover{
+  color: #fff;
+  font-family: "Almarai", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0px;
+  line-height: 24px;
+  border: none;
+  background-color: #b45b35;
+}
+
+.img-item{
+  height: 180px;
+  width: 252px;
+  border-radius: 5px;
+}
+
+.item-description{
+  color: #8c8c8c;
+  font-family: "Almarai", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 20x;
+}
+
+.item-title{
+  color: #555555;
+  font-family: "Almarai", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  
+}
+.brand-color{
+ color:#b45b35;
+ font-size: 22px;
+ 
+}
+
+.item-price{
+  color: #b45b35;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+
+.footer-warpp{
+  margin-top: 50px;
+  text-align: center;
+  color: #fff;
+  /* padding-bottom: 15px; */
+}
+
+.footer-warpp h4{
+  font-size: 20px;
+  margin-bottom: 15px !important;
+}
+.footer-warpp p{
+  color: #E75E8D;
+}
